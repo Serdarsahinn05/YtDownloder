@@ -21,7 +21,7 @@ Bu proje, video ve sesi düzgün işleyebilmek için **FFmpeg** aracına ihtiya�
 
 **Windows için:**
 1.  [FFmpeg.org](https://ffmpeg.org/download.html) adresinden indirin (gyan.dev sürümü önerilir).
-2.  İndirdiğiniz arşivden `bin` klasöründeki `ffmpeg.exe` dosyasını çıkarın.
+2.  İndirdiğiniz arşivden `bin` klasöründeki `ffmpeg.exe` dosyasını çıkarın.(Hala çalışmıyorsa bin klasöründeki diğer exe dosyalarını da aynı klasörün içine atın.)
 3.  **Seçenek A (Kolay):** `ffmpeg.exe` dosyasını, bu projenin (`yt_downloader.py`) olduğu klasöre atın.
 4.  **Seçenek B (Profesyonel):** FFmpeg'i bilgisayarınızın "Sistem Ortam Değişkenleri"ne (PATH) ekleyin.
 
